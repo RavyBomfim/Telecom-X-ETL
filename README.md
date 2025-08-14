@@ -1,2 +1,41 @@
-# Telecom-X - ETL Process
+# Telecom X - Processo de ETL e Análise
 
+### Tópicos
+
+[Descrição do Projeto](#descrição-do-projeto) | [Linguagem e Bibiotecas](#bibliotecas-utilizadas) | [Acesso ao Projeto](#acesso-ao-projeto) | [Quem Fez o Projeto](#desenvolvedora) 
+
+<hr>
+<h2 id="descrição-do-projeto">Descrição do Projeto</h2>
+
+**Telecom X** é um projeto de análise de evasão de clientes em uma empresa de telecomunicações. O trabalho envolve o **processo de ETL** (Extração, Transformação e Carga) dos dados, seguido da **análise exploratória** para identificar padrões e fatores que levam à saída dos clientes, gerando insights para reduzir a taxa de evasão.
+
+O projeto foi um desafio proposto como parte do **Programa ONE** (Oracle Next Education) de **ciência de dados**, promovido pela **Oracle**, em parceria com a **Alura**.
+
+_Obs: A Telecom X é uma empresa fictícia._
+
+<hr>
+
+<h2 id="bibliotecas-utilizadas">Linguagem e Bibiotecas</h2> 
+
+O projeto utiliza a **Linguagem Python** e as seguintes bibliotecas:
+
+- [x] Pandas - Versão: 2.2.2
+- [x] Numpy - Versão: 2.0.2
+- [x] Matplotlib - Versão 3.10.0
+- [x] Seaborn - Versão: 0.13.2
+
+<hr>
+
+<h2 id="acesso-ao-projeto">Acesso ao Projeto</h2>
+
+<p>Você pode acessar o código fonte do projeto ou baixá-lo clicando nos links abaixo:<a/> <br>
+
+- <a href="https://github.com/RavyBomfim/Telecom-X-ETL">Acessar Projeto<a/> <br>
+- <a href="https://github.com/RavyBomfim/Telecom-X-ETL/archive/refs/heads/main.zip">Baixar Projeto<a/>
+
+<hr>
+
+<h2 id="desenvolvedora">Quem Fez o Projeto</h2>
+
+| <a href="https://github.com/RavyBomfim"> <img alt="Foto de Ravieli" src="https://github.com/user-attachments/assets/6af616cd-dd7b-4a27-b5d3-a8f251b37ade" width=110> <br> Ravieli Bomfim <a/> |
+--- |
