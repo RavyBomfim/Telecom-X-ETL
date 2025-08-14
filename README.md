@@ -9,7 +9,7 @@
 
 **Telecom X** é um projeto de análise de evasão de clientes em uma empresa de telecomunicações. O trabalho envolve o **processo de ETL** (Extração, Transformação e Carga) dos dados, seguido da **análise exploratória** para identificar padrões e fatores que levam à saída dos clientes, gerando insights para reduzir a taxa de evasão.
 
-O projeto foi um desafio proposto como parte do **Programa ONE** (Oracle Next Education) de **ciência de dados**, promovido pela **Oracle**, em parceria com a **Alura**.
+Este projeto foi um desafio proposto como parte do **Programa ONE** (Oracle Next Education) de **ciência de dados**, promovido pela **Oracle**, em parceria com a **Alura**.
 
 _Obs: A Telecom X é uma empresa fictícia._
 
