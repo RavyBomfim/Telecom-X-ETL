@@ -17,7 +17,7 @@ _Obs: A Telecom X é uma empresa fictícia._
 
 <h2 id="bibliotecas-utilizadas">Linguagem e Bibiotecas</h2> 
 
-O projeto utiliza a **Linguagem Python** e as seguintes bibliotecas:
+O projeto utiliza a linguagem **Python** versão (3.11.13) e as seguintes bibliotecas:
 
 - [x] Pandas - Versão: 2.2.2
 - [x] Numpy - Versão: 2.0.2
