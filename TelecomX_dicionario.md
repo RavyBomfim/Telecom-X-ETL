@@ -2,11 +2,11 @@
 
 * `customerID`: número de identificação único de cada cliente
 * `Churn`: se o cliente deixou ou não a empresa 
-* `gender`: gênero (masculino e feminino) 
+* `Gender`: gênero (masculino e feminino) 
 * `SeniorCitizen`: informação sobre um cliente ter ou não idade igual ou maior que 65 anos 
 * `Partner`:  se o cliente possui ou não um parceiro ou parceira
 * `Dependents`: se o cliente possui ou não dependentes
-* `tenure`:  meses de contrato do cliente
+* `Tenure`:  meses de contrato do cliente
 * `PhoneService`: assinatura de serviço telefônico 
 * `MultipleLines`: assisnatura de mais de uma linha de telefone 
 * `InternetService`: assinatura de um provedor internet 
