@@ -32,7 +32,6 @@ O projeto utiliza a linguagem **Python** versão (3.11.13) e as seguintes biblio
 
 - <a href="https://github.com/RavyBomfim/Telecom-X-ETL/blob/main/TelecomX_ETL.ipynb">Acessar Projeto<a/> <br>
 - <a href="https://github.com/RavyBomfim/Telecom-X-ETL/archive/refs/heads/main.zip">Baixar Projeto<a/>
-- <a href="https://github.com/RavyBomfim/Telecom-X-ETL">Voltar para Repositório<a/> <br>
 
 <hr>
 
