@@ -30,12 +30,29 @@ O projeto utiliza a linguagem **Python** versão (3.11.13) e as seguintes biblio
 
 <p>Você pode acessar o código fonte do projeto ou baixá-lo clicando nos links abaixo:<a/> <br>
 
-- <a href="https://github.com/RavyBomfim/Telecom-X-ETL">Acessar Projeto<a/> <br>
+- <a href="https://github.com/RavyBomfim/Telecom-X-ETL/blob/main/TelecomX_ETL.ipynb">Acessar Projeto<a/> <br>
 - <a href="https://github.com/RavyBomfim/Telecom-X-ETL/archive/refs/heads/main.zip">Baixar Projeto<a/>
 
 <hr>
 
 <h2 id="desenvolvedora">Quem Fez o Projeto</h2>
 
-| <a href="https://github.com/RavyBomfim"> <img alt="Foto de Ravieli" src="https://github.com/user-attachments/assets/6af616cd-dd7b-4a27-b5d3-a8f251b37ade" width=110> <br> Ravieli Bomfim <a/> |
---- |
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/RavyBomfim">
+        <img alt="Foto de Ravieli" src="https://github.com/user-attachments/assets/6af616cd-dd7b-4a27-b5d3-a8f251b37ade" width="110"><br>
+        Ravieli Bomfim
+      </a>
+    </td>
+    <td align="left" width="600">
+      Desenvolvedora Web <br>
+      Estudando Ciências de Dados <br>
+      <b>Graduada em:</b> Análise e Desenvolvimento de Sistemas <br>
+      <b>Instituição:</b> IFBA - Instituto Federal de Educação, Ciência e Tecnologia da Bahia <br>
+      Participante do Programa ONE (Oracle Next Education) - Ciência de Dados
+    </td>
+  </tr>
+</table>
+
+
