@@ -37,5 +37,6 @@ O projeto utiliza a linguagem **Python** versão (3.11.13) e as seguintes biblio
 
 <h2 id="desenvolvedora">Quem Fez o Projeto</h2>
 
-| <a href="https://github.com/RavyBomfim"> <img alt="Foto de Ravieli" src="https://github.com/user-attachments/assets/6af616cd-dd7b-4a27-b5d3-a8f251b37ade" width=110> <br> Ravieli Bomfim <a/> |
---- |
+| <a href="https://github.com/RavyBomfim"> <img alt="Foto de Ravieli" src="https://github.com/user-attachments/assets/6af616cd-dd7b-4a27-b5d3-a8f251b37ade" width=110> <br> Ravieli Bomfim <a/> | Desenvolvedora Web <br> Estudando Ciências de Dados <br> Graduada em: Análise e Desenvolvimento de Sistemas <br> Instituição: IFBA - Instituto Federal de Educação, Ciência e Tecnologia da Bahia |
+--- | :--- |
+
