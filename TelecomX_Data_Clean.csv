@@ -944,7 +944,6 @@ CustomerID,Churn,Gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,Mul
 1360-XFJMR,No,Female,False,Yes,No,67,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),109.7,7344.45,3.65
 1363-TXLSL,Yes,Male,True,Yes,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.3,70.3,2.34
 1370-GGAWX,No,Female,False,No,No,46,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,94.15,4408.45,3.19
-1371-DWPAZ,No,Female,False,Yes,Yes,0,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),56.05,2283.3004408418656,inf
 1371-OJCEK,No,Female,False,No,No,48,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),24.35,1133.7,0.79
 1371-WEPDS,No,Male,True,Yes,No,40,Yes,No,DSL,No,No,No,No,No,Yes,One year,No,Electronic check,55.8,2283.3,1.9
 1373-ORVIZ,Yes,Female,False,Yes,Yes,11,Yes,Yes,DSL,No,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,66.35,740.8,2.24
@@ -1730,7 +1729,6 @@ CustomerID,Churn,Gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,Mul
 2519-FAKOD,Yes,Male,False,No,Yes,38,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),99.25,3777.15,3.31
 2519-LBNQL,No,Male,True,Yes,No,60,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,104.35,6339.45,3.52
 2519-TWKFS,No,Male,False,Yes,Yes,25,Yes,Yes,DSL,No,No,No,Yes,No,No,One year,Yes,Mailed check,55.1,1466.1,1.95
-2520-SGTTA,No,Female,False,Yes,Yes,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,20.0,2283.3004408418656,inf
 2521-NPUZR,No,Male,False,Yes,No,70,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),101.0,7085.5,3.37
 2522-AHJXR,No,Male,False,Yes,No,60,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),109.45,6572.85,3.65
 2522-WLNSF,No,Female,True,Yes,No,34,Yes,No,DSL,No,No,Yes,Yes,Yes,No,One year,No,Bank transfer (automatic),64.2,2106.3,2.06
@@ -1905,7 +1903,6 @@ CustomerID,Churn,Gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,Mul
 2773-MADBQ,No,Female,False,No,No,36,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Mailed check,53.1,1901.25,1.76
 2773-OVBPK,No,Male,False,Yes,No,67,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),111.3,7567.2,3.76
 2774-LVQUS,Yes,Female,True,Yes,No,15,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,83.05,1258.3,2.8
-2775-SEFEE,No,Male,False,No,Yes,0,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Two year,Yes,Bank transfer (automatic),61.9,2283.3004408418656,inf
 2777-PHDEI,Yes,Female,False,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,78.05,78.05,2.6
 2778-OCLGR,Yes,Male,True,Yes,No,24,No,No phone service,DSL,Yes,No,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),39.1,971.3,1.35
 2782-JEEBU,No,Male,False,No,No,21,No,No phone service,DSL,No,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,36.0,780.15,1.24
@@ -2024,7 +2021,6 @@ CustomerID,Churn,Gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,Mul
 2919-HBCJO,Yes,Female,False,No,No,4,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),76.65,333.6,2.78
 2920-RNCEZ,No,Male,False,Yes,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),69.95,69.95,2.33
 2921-XWDJH,No,Female,True,Yes,No,38,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,83.45,3147.15,2.76
-2923-ARZLG,No,Male,False,Yes,Yes,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,19.7,2283.3004408418656,inf
 2924-KHUVI,No,Male,False,Yes,No,56,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,One year,Yes,Electronic check,100.55,5514.95,3.28
 2925-MXLSX,No,Female,False,No,No,30,Yes,Yes,DSL,No,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),68.95,2038.7,2.27
 2925-VDZHY,No,Male,False,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),88.7,6501.35,3.01
@@ -2175,7 +2171,6 @@ CustomerID,Churn,Gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,Mul
 3106-ULWFW,Yes,Female,False,Yes,No,8,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),85.2,627.4,2.61
 3108-PCCGG,No,Male,True,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Credit card (automatic),84.45,5899.85,2.73
 3113-IWHLC,No,Male,False,No,No,5,Yes,No,DSL,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,55.8,274.35,1.83
-3115-CZMZD,No,Male,False,No,Yes,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,20.25,2283.3004408418656,inf
 3115-JPJDD,No,Female,False,Yes,No,59,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,One year,Yes,Credit card (automatic),81.25,4639.45,2.62
 3118-UHVVQ,No,Female,False,Yes,No,68,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),25.8,1911.5,0.94
 3120-FAZKD,No,Male,False,Yes,Yes,54,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),24.05,1230.9,0.76
@@ -2249,7 +2244,6 @@ CustomerID,Churn,Gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,Mul
 3211-AAPKX,No,Male,False,No,No,20,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,98.55,2031.95,3.39
 3211-ILJTT,Yes,Male,False,Yes,No,17,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),70.4,1214.05,2.38
 3212-KXOCR,No,Male,False,No,No,52,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),21.0,1107.2,0.71
-3213-VVOLG,No,Male,False,Yes,Yes,0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,25.35,2283.3004408418656,inf
 3214-IYUUQ,No,Female,False,Yes,No,61,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,Yes,One year,No,Bank transfer (automatic),93.7,5860.7,3.2
 3217-FZDMN,Yes,Female,True,No,No,8,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),94.45,742.95,3.1
 3219-JQRSL,No,Female,True,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),89.1,6352.4,2.94
@@ -2854,7 +2848,6 @@ CustomerID,Churn,Gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,Mul
 4072-IPYLT,No,Female,False,Yes,Yes,36,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Credit card (automatic),51.05,1815.0,1.68
 4074-SJFFA,Yes,Female,False,No,No,1,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,54.75,54.75,1.82
 4075-JFPGR,No,Female,False,Yes,No,51,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,No,One year,Yes,Electronic check,93.5,4619.55,3.02
-4075-WKNIU,No,Female,False,Yes,Yes,0,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,73.35,2283.3004408418656,inf
 4077-CROMM,Yes,Female,False,Yes,Yes,31,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,104.2,3243.45,3.49
 4077-HWUYD,No,Male,False,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),87.55,6463.15,2.99
 4078-SAYYN,Yes,Female,False,No,No,11,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.75,1129.75,3.42
@@ -3051,7 +3044,6 @@ CustomerID,Churn,Gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,Mul
 4365-MSDYN,No,Male,False,Yes,No,8,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),19.55,161.15,0.67
 4366-CTOUZ,No,Female,False,No,No,50,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Mailed check,100.2,5038.45,3.36
 4367-NHWMM,No,Female,False,No,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,24.9,24.9,0.83
-4367-NUYAO,No,Male,False,Yes,Yes,0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,25.75,2283.3004408418656,inf
 4369-HTUIF,Yes,Male,True,No,No,6,Yes,No,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),85.15,503.6,2.8
 4369-NYSCF,No,Male,False,No,No,56,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),75.75,4284.65,2.55
 4373-MAVJG,Yes,Female,False,Yes,Yes,14,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),90.9,1259.0,3.0
@@ -3117,7 +3109,6 @@ CustomerID,Churn,Gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,Mul
 4468-KAZHE,No,Female,True,Yes,No,20,Yes,No,DSL,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,60.0,1259.35,2.1
 4468-YDOVK,No,Male,False,No,Yes,5,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),48.65,235.2,1.57
 4471-KXAUH,Yes,Female,False,Yes,No,42,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,84.3,3588.4,2.85
-4472-LVYGI,No,Female,False,Yes,Yes,0,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),52.55,2283.3004408418656,inf
 4472-VESGY,No,Female,False,Yes,Yes,52,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,Month-to-month,No,Bank transfer (automatic),98.15,4993.4,3.2
 4475-NVTLU,No,Male,False,Yes,Yes,45,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,19.2,903.7,0.67
 4476-OSWTN,No,Male,True,Yes,No,69,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,110.55,7610.1,3.68
@@ -4053,7 +4044,6 @@ CustomerID,Churn,Gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,Mul
 5707-ORNDZ,Yes,Male,True,No,No,9,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,54.55,494.05,1.83
 5707-ZMDJP,No,Male,False,Yes,Yes,53,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,Two year,Yes,Mailed check,69.7,3729.6,2.35
 5708-EVONK,Yes,Female,False,Yes,Yes,58,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),93.4,5435.6,3.12
-5709-LVOEQ,No,Female,False,Yes,Yes,0,Yes,No,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Mailed check,80.85,2283.3004408418656,inf
 5712-AHQNN,No,Female,False,No,No,43,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,91.65,3954.1,3.07
 5712-PTIWW,Yes,Male,False,No,No,2,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,79.85,152.45,2.54
 5712-VBOXD,No,Female,False,No,No,4,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),20.15,68.45,0.57
@@ -5432,7 +5422,6 @@ CustomerID,Churn,Gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,Mul
 7641-EUYET,Yes,Male,True,Yes,Yes,46,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,100.7,4541.2,3.29
 7641-TQFHN,No,Male,False,No,Yes,39,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Two year,No,Mailed check,100.55,3895.35,3.33
 7643-RCHXS,No,Female,False,Yes,Yes,63,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,19.35,1263.85,0.67
-7644-OMVMY,No,Male,False,Yes,Yes,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,19.85,2283.3004408418656,inf
 7647-GYYKX,No,Female,False,Yes,Yes,54,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),20.35,1092.35,0.67
 7649-PHJVR,No,Male,False,No,No,11,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,19.5,226.8,0.69
 7649-SIJJF,No,Male,False,Yes,No,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Mailed check,80.1,5585.4,2.62
